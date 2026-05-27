@@ -10,7 +10,7 @@
 - 🔭 Working on AI chatbots and API projects
 - 💬 Ask me about Python, Web Development, MongoDB, GitHub
 - 📫 Reach me: nmeghanadhsai@gmail.com
-- ⚡ Fun fact: I love building AI projects
+
 
 ---
 

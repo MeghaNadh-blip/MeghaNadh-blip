@@ -7,7 +7,7 @@
 
 - 🎓 CSE Student at Vignan University
 - 🌱 Currently learning Python, AI, LangChain, Groq, Gradio
-- 🔭 Working on AI chatbots and weather API projects
+- 🔭 Working on AI chatbots and API projects
 - 💬 Ask me about Python, Web Development, MongoDB, GitHub
 - 📫 Reach me: nmeghanadhsai@gmail.com
 - ⚡ Fun fact: I love building AI projects
@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meghanadhsai-nalluri-942b97322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/meghanadh-nalluri-942b97322)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/MeghaNadh-blip)
 
 ---
